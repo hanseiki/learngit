@@ -12,4 +12,5 @@ $ git push -u origin master
 
 and go on
 $ git push origin master
+Creating a new branch is quick.
 
